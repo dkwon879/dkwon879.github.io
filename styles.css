@@ -3,8 +3,9 @@ img {
 }
 body {
     text-align: center;
-}
-body {
-    text-align: center;
+
     font-family: "Arial";
+   background-image: url("https://giphy.com/gifs/morning-monday-hqnMFgrNktTBS");
+   background-color: #cccccc;
+
 }
